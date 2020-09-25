@@ -57,3 +57,5 @@
 #     planeteer_calls.find {|item| valid_calls.include?(item)}
 # end
 # find_valid_calls(["Earth!", "Wind!", "Fire!", "Water!", "Heart!"])
+
+
